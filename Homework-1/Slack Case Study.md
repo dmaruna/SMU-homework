@@ -1,4 +1,4 @@
-# Slack Case Study
+# Stripe Case Study
 
 ## Overview and Origin
 
